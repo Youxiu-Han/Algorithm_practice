@@ -1,12 +1,12 @@
 # Algorithm_practice
 
 #### Plan for distributing questions:
->**Mon-*L1***;  
-**Tue-*L2***;  
+>**Mon-*L1***  
+**Tue-*L2***  
 Wed:None  
-**Thur-*L1***;  
-**Fri-*L2***;  
-**Sat-*L3***;  
+**Thur-*L1***  
+**Fri-*L2***  
+**Sat-*L3***  
 Sun:*Summary* && *Plan*   
 
 ####Participants（桃花源记小组）:
